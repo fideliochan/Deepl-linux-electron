@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "electron": "^30.0.0",
-    "electron-builder": "^22.9.1",
+    "electron-builder": "^24.0.0",
     "electron-webpack": "^2.8.2",
     "webpack": "^4.46.0"
   },
