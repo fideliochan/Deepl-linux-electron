@@ -3,7 +3,7 @@
     "electron": "^11.2.1",
     "electron-builder": "^22.9.1",
     "electron-webpack": "^2.8.2",
-    "webpack": "^4.46.0"
+    "webpack": "^5.0.0"
   },
   "name": "Deepl-Linux-Electron",
   "version": "1.4.3",
