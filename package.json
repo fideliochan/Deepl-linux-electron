@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "electron-store": "^7.0.1",
+    "electron-store": "^10.0.0",
     "source-map-support": "^0.5.19"
   }
 }
